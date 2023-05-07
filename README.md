@@ -15,6 +15,8 @@ Oh, Hi!
 
 3 00.00.13,000 - 00.00.17,000
 Uhm, hello?
+
 ---------------
 
-Then run the main.py file to export the subtitle file
+Then run the main.py file to export the subtitle file.
+(This is my first public project😥)
